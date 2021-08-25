@@ -1,4 +1,3 @@
-
 def main():
 edad=int(input("Ingresa tu edad: "))
 id=input("¿Tienes identificación oficial? (s/n): ")
