@@ -1,5 +1,5 @@
 def main():
-edad=int(input("Ingresa tu edad: "))
+edad = int(input("Ingresa tu edad: "))
 id=input("¿Tienes identificación oficial? (s/n): ")
 if edad<=0:
     print("Respuesta incorrecta")
